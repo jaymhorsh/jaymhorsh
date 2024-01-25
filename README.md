@@ -4,7 +4,7 @@ I am a seasoned Frontend developer with 3 years of professional experience, prof
 I am capable of continuous learning and eager to tackle complex problems which can maximize efficiency. You can check more about me on my [Linkedin](https://www.linkedin.com/in/jaji-moshood)
 
 :mailbox: Reach me out!
-[![Twitter Badge](https://img.shields.io/badge/-@Mophar2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/jaymhorsh) [![Linkedin Badge](https://img.shields.io/badge/-SalawudeenQuadri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaji-moshood) [![Mail Badge](https://img.shields.io/badge/-SalawudeenQuadri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jaji.moshood1297@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Mophar2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/jaymhorsh) [![Linkedin Badge](https://img.shields.io/badge/-JajiMoshood-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaji-moshood) [![Mail Badge](https://img.shields.io/badge/-JajiMoshood-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jaji.moshood1297@gmail.com)
 
 <!-- TODO: Add last video link -->
 - 🔭 I’m currently working on Becoming better than who I was yesterday 
