@@ -9,10 +9,9 @@ I am capable of continuous learning and eager to tackle complex problems which c
 <!-- TODO: Add last video link -->
 - 🔭 I’m currently working on Becoming better than who I was yesterday 
 - :computer: Most used line of code `console.log('Hello world')"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: +2348082698893.
+- 📫 How to reach me: +2348090686548.
 - 😄 Pronouns: He.
-- ⚡ Fun fact: After God prays for Money 
+- ⚡ Fun fact: No Gree for defeat, stand strong and stand tall. 
 
 #### 1.0.1. Top Technologies
 
