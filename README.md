@@ -1,4 +1,4 @@
-## 1. Hi I'm Jaji Moshood <img src="https://avatars.githubusercontent.com/u/43155979?v=4" width="28px" alt="hi">
+## 1. Hi I'm Jaji Moshood <img src="https://avatars.githubusercontent.com/u/43155979?v=4" width="48px" alt="hi">
 
 I am a seasoned Frontend developer with 3 years of professional experience, proficient in implementing design concepts into deployable solutions, ensuring the seamless translation of visual ideas into efficient and user-friendly interfaces. My skill set encompasses technologies and tools like React, JavaScript, TypeScript, CSS, TailwindCSS, REST API, and collaboration with backend teams to deliver high-quality, cross-functional projects. I am committed to staying at the forefront of frontend engineering trends, I bring a passion for creating innovative and responsive web applications.
 I am capable of continuous learning and eager to tackle complex problems which can maximize efficiency. You can check more about me on my [Linkedin](https://www.linkedin.com/in/jaji-moshood)
