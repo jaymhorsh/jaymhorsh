@@ -43,7 +43,8 @@ I am capable of continuous learning and eager to tackle complex problems which c
 
 #### 1.1.1. Bizness
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1AIxvLFj72o7L6TZLkznnAAapmcKLvCEB/view?usp=sharing)
-- :email: jaji.moshood1297@gmail.com@gmail.com
+- :email: jaji.moshood1297@gmail.com
+
 
 <!-- 
 
