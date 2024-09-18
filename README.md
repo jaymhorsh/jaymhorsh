@@ -1,7 +1,6 @@
 ## Hi I'm Jaji Moshood
 I am a highly motivated and results-driven Software Engineer with extensive experience in Frontend Engineering. I am proficient in implementing design concepts into deployable solutions and ensuring the seamless translation of visual ideas into efficient and user-friendly interfaces. My skill set encompasses technologies and tools like React/React Native, JavaScript, TypeScript, CSS, TailwindCSS, REST API, and collaboration with backend teams to deliver high-quality, cross-functional projects. I am committed to staying at the forefront of frontend engineering trends, I bring a passion for creating innovative and responsive web applications.
 I am capable of continuous learning and eager to tackle complex problems which can maximize efficiency. You can check more about me on my [Linkedin](https://www.linkedin.com/in/jaji-moshood)
-
 :mailbox: Reach me out!
 [![Twitter Badge](https://img.shields.io/badge/-@jaymhorsh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/jaymhorsh) [![Linkedin Badge](https://img.shields.io/badge/-JajiMoshood-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaji-moshood) [![Mail Badge](https://img.shields.io/badge/-JajiMoshood-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jaji.moshood1297@gmail.com)
 
@@ -9,7 +8,6 @@ I am capable of continuous learning and eager to tackle complex problems which c
 - 🔭 I’m currently working on Becoming better than who I was yesterday 
 - :computer: Most used line of code `console.log('Hello world')"`
 - 📫 How to reach me: +2348090686548.
-- 😄 Pronoun: He,
 - ⚡ Fun fact: No Gree for defeat, stand strong and stand tall. 
 
 #### 1.0.1. Top Technologies
