@@ -6,7 +6,7 @@ I am capable of continuous learning and eager to tackle complex problems which c
 
 <!-- TODO: Add last video link -->
 - 🔭 I’m currently working on Becoming better than who I was yesterday 
-- :computer: Most used line of code `console.log('Hello world')"`
+- :computer: Most used line of code `console.log('Hello world')`
 - 📫 How to reach me: +2348090686548.
 - ⚡ Fun fact: No Gree for defeat, stand strong and stand tall. 
 
