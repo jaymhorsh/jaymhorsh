@@ -1,9 +1,44 @@
-# 💫 About Me:
-I am a motivated, results-driven Software Engineer with extensive experience on web and mobile platforms, and I translate design concepts into deployable, production-ready solutions. Skilled in React, React Native, JavaScript, and TypeScript, with growing full-stack capability across backend services and system design. Experienced collaborating with design and backend teams to deliver high-quality, cross-functional projects end-to-end. Committed to writing efficient, user-friendly, and maintainable code, with a strong focus on solving complex problems and maximizing engineering efficiency.
+<div align="center">
+👋 Hi, I'm Moshood Jaji
+ 
+### Software Engineer • Frontend Engineer • Full-Stack Developer
+ 
+Building scalable web, mobile, and cloud applications with modern technologies.
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=Software+Engineer;Frontend+Engineer;Full+Stack+Developer;AI+Engineering+Learner;TypeScript+%7C+React+%7C+React-Native+%7C+Next.js+%7C+Node.js" />
+<br/>
+<a href="mailto:moshoodjaji.a@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jaji-moshood">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/jaymhorsh">
+  <img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/jaymhorsh">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" width="42"/>
+</a>
+</div>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@jaymhorsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/jaji-moshood) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@jaymhorsh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moshoodjaji.a@gmail.com) 
+## 👨🏻‍💻 About Me
+ 
+I'm a Software Engineer passionate about building products that are scalable, reliable, and easy to use.
+
+Over the past few years, I've designed and shipped production-ready web and mobile applications across fintech, real estate, e-commerce, and internal business platforms.
+
+My core expertise is in React, Next.js, React Native, TypeScript, and Node.js. I also enjoy backend architecture, cloud technologies, DevOps, and the growing AI ecosystem.
+
+I'm currently expanding my expertise in:
+
+- Cloud Architecture (AWS & Google Cloud)
+- DevOps & Infrastructure
+- AI Engineering
+- System Design
+- Distributed Systems
+
+Outside development, I enjoy learning how modern software systems are built at scale and continuously.
 
 # 💻 Tech Stack:
 ## 💻 Languages
@@ -71,15 +106,10 @@ I am a motivated, results-driven Software Engineer with extensive experience on 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jaymhorsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jaymhorsh&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=jaymhorsh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaymhorsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=jaymhorsh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#### 1.1.1. Bizness
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/13Eh59dE-UxWj4MP8D61o9KytvT65SOLb/view)
-- :email: jaji.moshood1297@gmail.com
 
 
 <!-- 
