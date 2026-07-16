@@ -67,7 +67,9 @@ I am a motivated, results-driven Software Engineer with extensive experience on 
 ## 🧪 Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)# 📊 GitHub Stats:
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jaymhorsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=jaymhorsh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaymhorsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
