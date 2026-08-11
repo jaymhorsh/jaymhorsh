@@ -106,7 +106,7 @@ Outside development, I enjoy learning how modern software systems are built at s
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jaymhorsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://367e0b29f09de8b1b83678ff3b53ddc669fe614c745a2d150d9c37e12d66b9c5/68747470733a2f2f6769746875622d726561646d652d73746174732e7368696f6e2e6465762f6170692f746f702d6c616e67732f3f757365726e616d653d6a61796d686f727368267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374)<br/>
+![](https://streak-stats.demolab.com/?user=jaymhorsh&theme=react&layout=compact&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaymhorsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- 
