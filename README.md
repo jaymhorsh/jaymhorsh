@@ -1,7 +1,7 @@
 <div align="center">
 👋 Hi, I'm Moshood Jaji
  
-### Software Engineer • Frontend Engineer • Full-Stack Developer
+### Software Engineer • Frontend Software Engineer • Full-Stack Developer
  
 Building scalable web, mobile, and cloud applications with modern technologies.
  
